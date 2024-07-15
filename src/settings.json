@@ -1,0 +1,64 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Discover why conventional wisdom stops and groundbreaking ideas flourish with our unparalleled expertise!",
+        "title": "The Ultimate Road to Innovation Ends Here"
+      }
+    },
+    {
+      "id": "HeroSimpleCentered",
+      "variables": {
+        "subtitle": "Discover why conventional wisdom stops and groundbreaking ideas flourish with our unparalleled expertise!",
+        "title": "The Ultimate Road to Innovation Ends Here"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Discover why conventional wisdom stops and groundbreaking ideas flourish with our unparalleled expertise!",
+        "title": "The Ultimate Road to Innovation Ends Here"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Discover why conventional wisdom stops and groundbreaking ideas flourish with our unparalleled expertise!",
+        "title": "The Ultimate Road to Innovation Ends Here"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Discover why conventional wisdom stops and groundbreaking ideas flourish with our unparalleled expertise!",
+        "title": "The Ultimate Road to Innovation Ends Here"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Discover why conventional wisdom stops and groundbreaking ideas flourish with our unparalleled expertise!",
+        "title": "The Ultimate Road to Innovation Ends Here"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Discover why conventional wisdom stops and groundbreaking ideas flourish with our unparalleled expertise!",
+        "title": "The Ultimate Road to Innovation Ends Here"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Discover why conventional wisdom stops and groundbreaking ideas flourish with our unparalleled expertise!",
+        "title": "The Ultimate Road to Innovation Ends Here"
+      }
+    }
+  ],
+  "theme": "minimal",
+  "font": "",
+  "title": "The Ultimate Road to Innovation Ends Here",
+  "subtitle": "Discover why conventional wisdom stops and groundbreaking ideas flourish with our unparalleled expertise!"
+}
